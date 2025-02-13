@@ -5,7 +5,7 @@ Este repositório contém o código fonte do meu portfólio online, desenvolvido
 ## Tecnologias Utilizadas
 
 *   **ReactJS:** Biblioteca JavaScript para construção de interfaces de usuário.
-*   **Vite:** Ferramenta de build para projetos web, oferecendo rapidez e otimização.
+*   **HeroUI:** Biblioteca de componentes React para criação de interfaces modernas e acessíveis.
 *   **React Suite:** Conjunto de componentes React para criação de interfaces elegantes e responsivas.
 
 ## Como Executar
