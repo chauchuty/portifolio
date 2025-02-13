@@ -1,8 +1,8 @@
-import { LayoutComponent } from "../../components/Layout";
 
-export function IndexPage(){
+export function IndexPage() {
     return (
-        <LayoutComponent>
-        </LayoutComponent>
+        <>
+            <button className="button is-white">Button</button>
+        </>
     )
 }
